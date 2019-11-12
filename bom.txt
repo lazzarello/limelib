@@ -1,0 +1,7 @@
+ATTINY 8 pin DIP
+Blue LED
+capacitor through hole 5.4uf
+resistor through hole 8.9k
+momentary button
+2 wire power / ground
+2 wire serial wires I2C
